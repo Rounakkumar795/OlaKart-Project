@@ -1,0 +1,49 @@
+// .banner{
+//   height: 300px;
+//   width: 100%;
+//   position: relative;
+//   img{
+//     position: absolute;
+//     width: 100%;
+//     height: auto;
+//     top: 0;
+//   }
+// }
+
+
+.card1{
+  display: inline-block;
+}
+.scroll{
+  display: flex;
+  overflow-x: scroll;
+}
+.card-body {
+  min-height: 200px;
+  min-width: 300px;
+  margin-right: 5px;
+}
+.carousel-inner{
+  height: 300px;
+}
+.btn1{
+  border: none;
+  max-width: 100%;
+}
+.img1{
+  max-width: 100%;
+  max-height: 100%;
+  border: 2px solid #ffffff;
+}
+.sellerFooter{
+  display: inline-flex;
+  min-height: 200px;
+  background-color: rgb(158, 186, 247);
+}
+.sellerbox{
+  margin-left: 30px;
+  margin-top: 20px;
+}
+.card-text{
+  padding-right: 20px;
+}
